@@ -2,7 +2,7 @@
 Download covers from Youtube videos
 # Существует множество способов скачать бане видео Youtube
 
-# 1) загрузить url видео на этот сайт: https://prozavr.ru/tools/skachat_oblogku_youtube.php
+# 1) Загрузить url видео на этот сайт: https://prozavr.ru/tools/skachat_oblogku_youtube.php
 
 # 2) Вставить 'id' видео в эту ссылку: https://i1.ytimg.com/vi/idVideo/maxresdefault.jpg
 # Пример 'id' видео: 
